@@ -8,6 +8,7 @@ public class VectorTest {
         lista.adiciona(a1);
         lista.adiciona(a2);
         System.out.println(lista);
+        System.out.println("length >> "+lista.tamanho());
     }
 
 }
