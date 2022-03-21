@@ -25,6 +25,9 @@ public class VectorTest {
         lista.adicionaNaPosicao(2, a3);
         System.out.println(lista);
 
+        lista.remove(1);
+        System.out.println(lista);
+
     }
 
 }
