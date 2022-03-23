@@ -1,3 +1,5 @@
+package class1vector;
+
 public class VectorTest {
     public static void main(String[] args) {
         Aluno a1 = new Aluno("Joao a1");
